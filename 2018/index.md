@@ -62,7 +62,7 @@
 | Arduino UNO                                                                                                         | 5    |
 | センサ付き通信モジュール [Sigfox Shield for Arduino](https://soracom.jp/products/sigfox/sigfox_shield_for_arduino/) | 3    |
 | Sigfox対応センサ [Sens'it](https://soracom.jp/products/sigfox/sensit/)                                              | 3    |
-| OC2650 Sensor Tag                                                                                                   | 6    |
+| BLE対応センサ [CC2650 Sensor Tag](http://processors.wiki.ti.com/index.php/CC2650_SensorTag_User's_Guide)            | 6    |
 | 温湿度センサ [USBRH](https://strawberry-linux.com/catalog/items?code=52001)                                         | 7    |
 | スマート電源タップ [Geekbes Mini Smart Socket](oittm.md)                                                            | 4    |
 | 赤外線IoT [Nature Remo](remo.md)                                                                                    | 1    |
