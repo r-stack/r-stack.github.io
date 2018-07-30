@@ -41,7 +41,7 @@
 
 #### 味覚デバイス
 
-<img src="https://user-images.githubusercontent.com/19829385/43395225-4630f7ee-9438-11e8-8379-801a4871e6f6.png" width="60%">
+<img src="https://user-images.githubusercontent.com/19829385/43395716-01c3ab4a-943a-11e8-8dc8-67719c758f07.png" width="60%">
 
 #### 触覚デバイス
 
