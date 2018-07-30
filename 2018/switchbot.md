@@ -2,7 +2,7 @@
 
 Google Home, Alexa, IFTTTなどで制御できる物理スイッチ押下デバイス
 
-### セットアップ方法
+### セットアップ方法(スマホアプリ)
 
 1. スマホの Google play / App Store で `SwitchBot` アプリをダウンロードする
 2. SwitchBotのアカウントでログインする

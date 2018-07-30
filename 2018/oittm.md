@@ -2,7 +2,7 @@
 
 Google Home, Alexa, IFTTTなどで制御できるアロマディフューザ
 
-### セットアップ方法
+### セットアップ方法(スマホアプリ)
 
 1. スマホの Google play / App Store で `Oittm Smart` アプリをダウンロードする
 2. Oittmのアカウントでログインする
@@ -17,7 +17,7 @@ Google Home, Alexa, IFTTTなどで制御できるアロマディフューザ
 
 Google Home, Alexa, IFTTTなどで制御できる電源タップ
 
-### セットアップ方法
+### セットアップ方法(スマホアプリ)
 
 1. スマホの Google play / App Store で `Oittm Smart` アプリをダウンロードする
 2. Oittmのアカウントでログインする

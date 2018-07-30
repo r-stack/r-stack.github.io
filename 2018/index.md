@@ -10,3 +10,5 @@
 - スマートアロマディフューザ [Oittm Smart Aroma Diffuser](oittm.md)
 - スイッチIoT [SwitchBot](switchbot.md)
 - スマート電源タップ [Geekbes Mini Smart Socket](oittm.md)
+- IoTボタン [AWS IoT Enterprise Button](awsbutton.md)
+- 赤外線IoT [Nature Remo](remo.md)
