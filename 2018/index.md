@@ -41,7 +41,7 @@
 
 #### 味覚デバイス
 
-On your tongue...
+<img src="https://user-images.githubusercontent.com/19829385/43395225-4630f7ee-9438-11e8-8379-801a4871e6f6.png" width="60%">
 
 #### 触覚デバイス
 
