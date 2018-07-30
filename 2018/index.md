@@ -23,10 +23,10 @@
 
 #### 嗅覚デバイス
 
-| デバイス                                                                             | 個数 |
-| ------------------------------------------------------------------------------------ | ---- |
-| スマートアロマディフューザ [Oittm Smart Aroma Diffuser](oittm.md)                    | 2    |
-| 空気品質センサ [BME680 Breakout](https://shop.pimoroni.com/products/bme680-breakout) | 3    |
+| デバイス                                                                                                          | 個数 |
+| ----------------------------------------------------------------------------------------------------------------- | ---- |
+| スマートアロマディフューザ [Oittm Smart Aroma Diffuser](oittm.md)                                                 | 2    |
+| 空気品質センサ [BME680 Breakout](https://learn.pimoroni.com/tutorial/sandyj/getting-started-with-bme680-breakout) | 3    |
 
 #### 味覚デバイス
 
