@@ -8,4 +8,5 @@
 - スマートスピーカ [Amazon Echo](echo.md)
 - スマートライト [Philips Hue](hue.md)
 - スマートアロマディフューザ [Oittm Smart Aroma Diffuser](oittm.md)
-- スイッチIoT [Switchbot](switchbot.md)
+- スイッチIoT [SwitchBot](switchbot.md)
+- スマート電源タップ [Geekbes Mini Smart Socket](oittm.md)
