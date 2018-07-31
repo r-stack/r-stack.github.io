@@ -19,18 +19,19 @@
 
 | デバイス                                                                          | 個数 |
 | --------------------------------------------------------------------------------- | ---- |
-| スマートスピーカ [Google Home](google_home.md)                                    | 6    |
-| スマートスピーカ [Amazon Echo](echo.md)                                           | 6    |
+| スマートスピーカ [Google Home](https://store.google.com/jp/product/google_home)   | 6    |
+| スマートスピーカ [Amazon Echo](https://www.amazon.co.jp/dp/B071ZF5KCM)            | 6    |
+| スマートスピーカ [Amazon Echo Spot](https://www.amazon.co.jp/dp/B01J6A7CT6)       | 1    |
 | USBマイク [MM-MCUS16](https://www.sanwa.co.jp/product/syohin.asp?code=MM-MCUSB16) | 1    |
 
 #### 視覚デバイス
 
-| デバイス                                                                          | 個数 |
-| --------------------------------------------------------------------------------- | ---- |
-| VRゴーグル [HTC Vive](vive.md)                                                    | 1    |
-| スマートライト [Philips Hue ライトリボンプラス](hue.md)                           | 1    |
-| 全天球カメラ [RICHO THETA S](https://theta360.com/ja/about/theta/s.html)          | 1    |
-| AR対応スマホ [ZenFone AR](https://www.asus.com/jp/Phone/ZenFone-AR-ZS571KL/)      | 1    |
+| デバイス                                                                        | 個数 |
+| ------------------------------------------------------------------------------- | ---- |
+| VRゴーグル [HTC Vive](https://www.vive.com/jp/)                                 | 1    |
+| スマートライト [Philips Hue ライトリボンプラス](https://www2.meethue.com/ja-jp) | 1    |
+| 全天球カメラ [RICHO THETA S](https://theta360.com/ja/about/theta/s.html)        | 1    |
+| AR対応スマホ [ZenFone AR](https://www.asus.com/jp/Phone/ZenFone-AR-ZS571KL/)    | 1    |
 
 #### 嗅覚デバイス
 
@@ -45,14 +46,14 @@
 
 #### 触覚デバイス
 
-| デバイス                                                                                 | 個数 |
-| ---------------------------------------------------------------------------------------- | ---- |
-| IoTボタン [AWS IoT Enterprise Button](awsbutton.md)                                      | 3    |
-| スイッチIoT [SwitchBot](switchbot.md)                                                    | 2    |
-| スマートウォッチ [Apple Watch 2](https://www.apple.com/jp/watch/)                        | 2    |
-| スマートウォッチ [HUAWEI Watch](https://consumer.huawei.com/jp/support/wearables/watch/) | 2    |
-| ハンドトラッキングデバイス [LeapMotion](https://www.leapmotion.com/ja/)                  | 1    |
-| 指輪型ウェアラブル端末 [Ring ZERO](https://logbar.jp/howtopdf.pdf)                       | 1    |
+| デバイス                                                                                                                      | 個数 |
+| ----------------------------------------------------------------------------------------------------------------------------- | ---- |
+| IoTボタン [AWS IoT Enterprise Button](https://docs.aws.amazon.com/ja_jp/iot/latest/developerguide/iot-button-quickstart.html) | 3    |
+| スイッチIoT [SwitchBot](switchbot.md)                                                                                         | 2    |
+| スマートウォッチ [Apple Watch 2](https://www.apple.com/jp/watch/)                                                             | 2    |
+| スマートウォッチ [HUAWEI Watch](https://consumer.huawei.com/jp/support/wearables/watch/)                                      | 2    |
+| ハンドトラッキングデバイス [LeapMotion](https://www.leapmotion.com/ja/)                                                       | 1    |
+| 指輪型ウェアラブル端末 [Ring ZERO](https://logbar.jp/howtopdf.pdf)                                                            | 1    |
 
 #### その他デバイス
 
@@ -65,5 +66,5 @@
 | BLE対応センサ [CC2650 Sensor Tag](http://processors.wiki.ti.com/index.php/CC2650_SensorTag_User's_Guide)            | 6    |
 | 温湿度センサ [USBRH](https://strawberry-linux.com/catalog/items?code=52001)                                         | 7    |
 | スマート電源タップ [Geekbes Mini Smart Socket](oittm.md)                                                            | 4    |
-| 赤外線IoT [Nature Remo](remo.md)                                                                                    | 1    |
+| 赤外線IoT [Nature Remo](https://developer.nature.global/)                                                           | 1    |
 | 赤外線IoT [iRemocon](http://i-remocon.com/)                                                                         | 1    |
