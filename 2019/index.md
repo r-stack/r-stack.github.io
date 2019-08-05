@@ -19,7 +19,7 @@
 
 | デバイス                                                                          | 個数 |
 | --------------------------------------------------------------------------------- | ---- |
-| スマートスピーカ [Google Home](https://store.google.com/jp/product/google_home)   | 6    |
+| スマートスピーカ [Google Home](https://store.google.com/jp/product/google_home)   | 5    |
 | スマートスピーカ [Amazon Echo](https://www.amazon.co.jp/dp/B071ZF5KCM)            | 5    |
 
 #### 視覚デバイス
